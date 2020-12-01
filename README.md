@@ -9,12 +9,6 @@ Originally by [@EricaTheDev](https://twitter.com/ericathedev). Pull requests acc
 - In the summers when you're at University: work as an intern at a software development company 
 - Grow as a person, not just as someone who codes: be humble, don't be afraid to ask a lot of questions, learn presentation skills and how to logically discuss ideas
 
-### Events and talks 
-- ICTSA (University of Malta ICT students association): https://www.facebook.com/ictsamalta/. Watch out for the annual Game of Codes competition. 
-- Google developers group (Google technology): https://www.facebook.com/gdgmalta/ 
-- Ignite Malta (A variety of technologies): https://www.facebook.com/ignitemt/ 
-- JCI Malta (Personal development): https://www.facebook.com/jcimalta/ 
-
 ## Things to read
 Free articles and resources:
 - https://github.com/mr-mig/every-programmer-should-know
