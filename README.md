@@ -28,7 +28,7 @@ Talks from conferences such as:
 - Techops
 - Testing Engineer / Quality Assurance / Quality Assistance / Test Automation Engineer **
 - CICD Engineer
-- Business Intelligence 
+- Data Enginer / Business Intelligence **
 - Security Engineer
 - Product Owner / Systems Analyst 
 
