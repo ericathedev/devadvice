@@ -16,9 +16,10 @@ Free articles and resources:
 
 ## Things to watch
 Talks from conferences such as:
-- Craftconf https://craft-conf.com/2017 
 - Devoxx https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg 
 - GOTO https://www.youtube.com/user/GotoConferences
+- JAX London https://www.youtube.com/channel/UCjV872QnKWg7a48CGApj46A
+- LeadDev https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg
 
 ## Things to be
 - Software Engineer / Software Developer / Programmer ** - Frontend, Backend or Full Stack
