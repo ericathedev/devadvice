@@ -21,10 +21,13 @@ Talks from conferences such as:
 - GOTO https://www.youtube.com/user/GotoConferences
 
 ## Things to be
-- Software Developer / Software Engineer / Programmer **
+- Software Engineer / Software Developer / Programmer ** - Frontend, Backend or Full Stack
 - DevOps
+- Techops
 - Testing Engineer / Quality Assurance / Quality Assistance / Test Automation Engineer **
+- CICD Engineer
 - Business Intelligence 
+- Security Engineer
 - Product Owner / Systems Analyst 
 
 ** used semi-interchangeably 
