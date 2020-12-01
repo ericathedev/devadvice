@@ -13,6 +13,7 @@ Originally by [@EricaTheDev](https://twitter.com/ericathedev). Pull requests acc
 Free articles and resources:
 - https://github.com/mr-mig/every-programmer-should-know
 - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md 
+- https://dev.to/
 
 ## Things to watch
 Talks from conferences such as:
