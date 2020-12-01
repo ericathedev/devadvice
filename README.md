@@ -8,7 +8,6 @@ Originally by [@EricaTheDev](https://twitter.com/ericathedev). Pull requests acc
 - Have a pet project of your own. Bonus points: open source that 
 - In the summers when you're at University: work as an intern at a software development company 
 - Grow as a person, not just as someone who codes: be humble, don't be afraid to ask a lot of questions, learn presentation skills and how to logically discuss ideas
-- Full list of ideas at: http://www.metadevelopment.io/growing-as-software-engineer/ 
 
 ### Events and talks 
 - ICTSA (University of Malta ICT students association): https://www.facebook.com/ictsamalta/. Watch out for the annual Game of Codes competition. 
